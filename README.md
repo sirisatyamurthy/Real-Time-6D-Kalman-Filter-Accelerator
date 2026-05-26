@@ -95,7 +95,7 @@ This enables tracking of a vehicle's motion in 2D space with both velocity and a
 
 ```
 Input Measurements (GPS, Accelerometer, etc.)
-        ↓
+                ↓
     ┌───────────────────────────────┐
     │   Input Interface Module      │
     │   (Store sensor data)         │
