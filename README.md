@@ -473,7 +473,7 @@ MIT License - Open source for educational and commercial use
 ## 📞 Contact & Support
 
 **Author**: Siri Satyamurthy  
-**Email**: sirisatyamurthy8@gmail.com  
+**Email**: sirisatyamurthy18@gmail.com  
 **GitHub**: github.com/sirisatyamurthy  
 **LinkedIn**: linkedin.com/in/siri-satyamurthy-7262s3331  
 
