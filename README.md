@@ -475,7 +475,7 @@ MIT License - Open source for educational and commercial use
 **Author**: Siri Satyamurthy  
 **Email**: sirisatyamurthy18@gmail.com  
 **GitHub**: github.com/sirisatyamurthy  
-**LinkedIn**: linkedin.com/in/siri-satyamurthy-7262s3331  
+**LinkedIn**: linkedin.com/in/siri-satyamurthy-726536331  
 
 **Project Details:**
 - Submitted: May 2026
